@@ -154,11 +154,11 @@ System Design              ████░░░░░░  Exploring
 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/shivam-jha-785b92387">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="[https://github.com/YOUR_USERNAME](https://github.com/shivamjha76)">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>---
