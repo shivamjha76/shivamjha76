@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/banner.png" alt="Code Learn Build Banner" width="100%">
+
+</div>
+
 👋 Hey, I'm Shivam jha
 
 💻 Computer Science Engineering Student | Backend & Web Development | Core CS
